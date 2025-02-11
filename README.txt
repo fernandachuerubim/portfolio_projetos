@@ -1,5 +1,5 @@
-# Portifólio de projetos
+PORTIFÓLIO DE PROJETOS:
 Reposítório para hospedar o meu portifólio de projetos.
 
-## Link:
+LINK:
 https://fernandachuerubim.github.io/portfolio_projetos/
